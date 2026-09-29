@@ -1,0 +1,12 @@
+queue,booking_id,room_id,date,start,end,decision,reason
+1,BK-100,RM-A,2044-03-18,09:00,10:45,accepted,scheduled
+2,BK-104,RM-B,2044-03-18,10:35,11:10,accepted,scheduled
+3,BK-105,RM-C,2044-03-18,13:00,15:00,accepted,scheduled
+4,BK-108,RM-B,2044-03-18,15:00,16:00,rejected,room constraint
+5,BK-103,RM-B,2044-03-18,09:30,10:30,accepted,scheduled
+6,BK-101,RM-A,2044-03-18,10:50,11:30,accepted,scheduled
+7,BK-115,RM-A,2044-03-18,12:00,13:00,accepted,scheduled
+8,BK-106,RM-C,2044-03-18,12:30,13:00,accepted,scheduled
+9,BK-109,RM-A,2044-03-18,16:00,17:00,rejected,room constraint
+10,BK-107,RM-C,2044-03-18,18:00,20:00,accepted,scheduled
+11,BK-102,RM-A,2044-03-18,11:00,11:40,rejected,conflict with BK-101
