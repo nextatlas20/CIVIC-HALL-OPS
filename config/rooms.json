@@ -1,0 +1,10 @@
+[
+  {"room_id":"RM-A","name":"Old Atrium","capacity":60,"features":["projector"],"enabled":true},
+  {"room_id":"RM-B","name":"Workshop Studio","capacity":30,"features":["hybrid","projector"],"enabled":true},
+  {"room_id":"RM-C","name":"Council Chamber","capacity":120,"features":["projector","hearing-loop","hybrid"],"enabled":true},
+  {"room_id":"RM-D","name":"Garden Annex","capacity":25,"features":["projector"],"enabled":false},
+  {"room_id":"RM-A","name":" Atrium Room ","capacity":70,"features":["hearing-loop","projector"],"enabled":true},
+  {"room_id":"bad","name":"Ignored","capacity":10,"features":[],"enabled":true},
+  {"room_id":"RM-E","name":"Broken | Hall","capacity":40,"features":[],"enabled":true},
+  {"room_id":"RM-B","name":"Invalid Revision","capacity":true,"features":[],"enabled":true}
+]

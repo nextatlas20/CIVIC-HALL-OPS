@@ -1,0 +1,19 @@
+booking_id,room_id,title,organizer,date,start,end,attendees,features,status,revision,priority
+BK-100,RM-A,Neighborhood Forum,Community Office,2044-03-18,09:00,10:45,45,hearing-loop,confirmed,1,civic
+BK-101,RM-A,Tax Clinic,Advice Network,2044-03-18,10:50,11:30,25,projector,confirmed,1,partner
+BK-102,RM-A,Staff Briefing,Facilities,2044-03-18,11:00,11:40,12,,confirmed,1,internal
+BK-103,RM-B,Hybrid Workshop,Digital Guild,2044-03-18,09:30,10:30,24,hybrid;projector,confirmed,1,partner
+BK-104,RM-B,Volunteer Orientation,Welcome Team,2044-03-18,10:35,11:10,20,projector,confirmed,1,civic
+BK-105,RM-C,Election Training,Clerk Office,2044-03-18,13:00,15:00,90,hearing-loop,confirmed,1,civic
+BK-106,RM-C,Accessibility Q&A,Access Coalition,2044-03-18,12:30,13:00,40,hearing-loop,confirmed,1,partner
+BK-107,RM-C,"Budget, Benefits & You",Civic Finance,2044-03-18,18:00,20:00,60,hybrid;projector,confirmed,1,partner
+BK-108,RM-B,Crowded Session,Large Group,2044-03-18,15:00,16:00,31,projector,confirmed,1,civic
+BK-109,RM-A,Remote Broadcast,Media Team,2044-03-18,16:00,17:00,20,hybrid,confirmed,1,partner
+BK-110,RM-A,Cancelled Meetup,Local Club,2044-03-18,14:00,15:00,15,,cancelled,1,civic
+BK-111,RM-A,Next Day Event,Local Club,2044-03-19,09:00,10:00,15,,confirmed,1,civic
+BK-112,RM-D,Garden Planning,Parks Team,2044-03-18,09:00,10:00,10,projector,confirmed,1,civic
+BK-113,RM-B,Revision Test,Test Team,2044-03-18,16:00,17:00,10,,confirmed,1,partner
+BK-113,RM-B,Revision Test,Test Team,2044-03-18,16:00,17:00,10,,cancelled,2,partner
+BK-114,RM-A,Bad Count,Test Team,2044-03-18,17:00,18:00,ten,,confirmed,1,internal
+BK-115,RM-A,Grant Help Desk,Funding Desk,2044-03-18,12:00,13:00,25,projector,confirmed,1,partner
+BK-101,RM-A,Tax Clinic,Advice Network,2044-03-18,10:50,11:30,25,projector,cancelled,0,partner
